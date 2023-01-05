@@ -17,7 +17,7 @@ permalink: /processes/javascript.html
 
 *score* uses JavaScript version ES7. See the [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) for more information about the JS language.
 
-It also uses QML (property real, etc.). See the [QML Reference](https://doc.qt.io/qt-5/qmlreference.html) for more information.
+It also uses QML (property real, etc.). See the [QML Reference](https://doc.qt.io/qt-5/qmlreference.html) and [QT Quick Reference](https://doc.qt.io/qt-5/qtquick-index.html) for more information.
 
 Either code directly or a path to the file can be added to the Javascript code editor - if it's a file it will be watched for changes.
 
